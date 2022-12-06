@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanushri Das</h1>
 <h3 align="center">A passionate frontend developer from Dhaka , Bangladesh</h3>
-<img align="right" width="600px" src="https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1">
+<img align="right" width="50%" src="https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1">
 
 - 🌱 I’m currently learning **React Native & Material UI**
 
