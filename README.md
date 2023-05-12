@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Dhaka , Bangladesh</h3>
 <img align="right" width="400px" src="https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1">
 
-- 🌱 I’m currently learning **React Native & Material UI**
+- 🌱 I’m currently learning **Next.js & TypeScript**
 
 - 👨‍💻 All of my projects are available at [......](......)
 
