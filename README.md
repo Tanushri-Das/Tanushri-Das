@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Tanushri Das</h1>
 <h3 align="center">A passionate frontend developer from Dhaka , Bangladesh</h3>
-<img align="right" width="400px" src="https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1">
+<img align="right" width="400px" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/254414993/original/0518051cb0efbf3581693eaa19e7b5190b08d48c/be-your-front-end-web-developer-html-css-reactjs-tailwind-css-bootstrap-mui-7fa2.jpg">
 
 - 🌱 I’m currently learning **TypeScript & Redux Toolkit**
 
