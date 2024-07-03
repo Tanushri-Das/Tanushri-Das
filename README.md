@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Dhaka , Bangladesh</h3>
 <img align="right" width="400px" src="https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1">
 
-- 🌱 I’m currently learning **Next.js & TypeScript**
+- 🌱 I’m currently learning **TypeScript & Redux Toolkit**
 
 - 👨‍💻 All of my projects are available at [......](......)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Tailwind,React,Daisy UI**
+- 💬 Ask me about **HTML,CSS,Javascript,Bootstrap,Tailwind Css,React.js**
 
 - 📫 How to reach me **dastanushri402@gmail.com**
 
