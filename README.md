@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://symphonious-otter-efc6b5.netlify.app/](https://symphonious-otter-efc6b5.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,Javascript,Bootstrap,Tailwind Css,React.js**
+- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, Tailwind CSS, React.js**
 
 - 📫 How to reach me **dastanushri402@gmail.com**
 
