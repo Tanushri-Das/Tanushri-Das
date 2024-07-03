@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Redux Toolkit**
 
-- 👨‍💻 All of my projects are available at [......](......)
+- 👨‍💻 All of my projects are available at [https://symphonious-otter-efc6b5.netlify.app/](https://symphonious-otter-efc6b5.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,Javascript,Bootstrap,Tailwind Css,React.js**
 
