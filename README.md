@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dastanushri402@gmail.com**
 
-- ⚡ Fun fact **I love to travelling**
+- ⚡ Fun fact **I love learning new technologies that increase my knowledge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
