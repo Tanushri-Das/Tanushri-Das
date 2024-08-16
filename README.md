@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Dhaka , Bangladesh</h3>
 <img align="right" width="400px" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/168614848/original/6de803cb09cfe291a9daae3e86b951d9dc5e5ddd/be-your-front-end-web-developer-html-css-bootstrap.jpg">
 
-- 🌱 I’m currently learning **TypeScript & Redux Toolkit**
+- 🌱 I’m currently learning **Next.js and Next Auth**
 
 - 👨‍💻 All of my projects are available at [https://symphonious-otter-efc6b5.netlify.app/](https://symphonious-otter-efc6b5.netlify.app/)
 
