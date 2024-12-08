@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js and Next Auth**
 
-- 👨‍💻 All of my projects are available at [https://symphonious-otter-efc6b5.netlify.app/](https://symphonious-otter-efc6b5.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tanushri-das-portfolio-website.netlify.app/](https://tanushri-das-portfolio-website.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, Tailwind CSS, React.js**
 
